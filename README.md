@@ -32,22 +32,22 @@
 
 ## Imagens da Aplicação:
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_0.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_0.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_1.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_1.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_2.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_2.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_3.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_3.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_4.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_4.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_5.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_5.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_6.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_6.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_7.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_7.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_8.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_8.png)
 
-![alt text](https://github.com/lucianonevesln/python-django-konv/blob/main/img/Screenshot_9.png)
+![alt text](https://github.com/lucianonevesln/python-konv/blob/main/img/Screenshot_9.png)
