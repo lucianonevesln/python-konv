@@ -26,7 +26,7 @@
 
 ## OBS:
 
-### - Jamais altere os arquivos de banco de dados, mantenha o cursor sempre na linha imediatamente abaixo dos metadados (cabeçalhos);
+### - Jamais altere os arquivos de banco de dados, mantenha o cursor sempre na linha imediatamente abaixo dos metadados (cabeçalhos) ou ultimo dado inserido;
 
 ### - Iniciei a aplicação inserindo novos clientes através do menu 1;
 
